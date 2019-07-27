@@ -1,0 +1,1 @@
+React Firebase authentication. Includes basic functions such as createUser, signIn, signOut etc..  Uses React's Context API to pass firebase object to other components. Authentication state stored in local storage to prevent flicker/glitch when reloading the browser page. 
